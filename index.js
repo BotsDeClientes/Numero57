@@ -89,7 +89,7 @@ console.log(chalk.yellow(`╭${lineM}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💚 Nombre: ${packageJsonObj.name}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`𓃠 Versión: ${packageJsonObj.version}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💜 Descripción: ${packageJsonObj.description}`)}
-┊${chalk.blueBright('┊')}${chalk.cyan(`😺 Project Author: ${packageJsonObj.author.name} (@gata_dios)`)}
+┊${chalk.blueBright('┊')}${chalk.cyan(`😺 Project Author: ${packageJsonObj.author.name} (@cristhoferrojasph)`)}
 ┊${chalk.blueBright('┊')}${chalk.blueBright('┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
 ┊${chalk.blueBright('┊')}${chalk.yellow(`💜 Creadores:`)}
 ┊${chalk.blueBright('┊')}${chalk.yellow(`• @cristhoferrojasph (Cris ofc)`)}
