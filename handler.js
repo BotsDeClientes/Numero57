@@ -1493,7 +1493,7 @@ let msg = this.serializeM(this.loadMessage(id))
 let chat = global.db.data.chats[msg?.chat] || {}
 if (!chat?.delete) return 
 if (!msg) return 
-if (!msg?.isGroup) return 
+if (!msg?.isOwner) return 
 const antideleteMessage = ``.trim();
 await this.sendMessage(msg.chat, {text: antideleteMessage, mentions: [participant]}, {quoted: msg})
 this.copyNForward(msg.chat, msg).catch(e => console.log(e, msg))
@@ -1513,7 +1513,7 @@ admin: lenguajeGB['smsAdmin'](),
 botAdmin: lenguajeGB['smsBotAdmin'](),
 unreg: lenguajeGB['smsUnreg'](),
 restrict: lenguajeGB['smsRestrict'](),
-}[type]
+}[type] 
 //if (msg) return m.reply(msg)
 let tg = { quoted: m, userJid: conn.user.jid }
 let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '🐧', 'https://www.instagram.com/cristoferrojasph'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, channel1, channel2, nna, yt, ig, paypal, fb].getRandom() }}}}, tg)
