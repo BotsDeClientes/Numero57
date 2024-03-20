@@ -16,50 +16,35 @@ let teks = `${pickRandom([`no puedo esta contra las política del grupo.😸`, `
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})}*/
 
 if (/^reglas|normas|Reglas$/i.test(m.text) ) { //sin prefijo 
-conn.reply(m.chat, `*╭┅〘 ⚠️ 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 𝗿𝗲𝗴𝗹𝗮𝘀 ⚠️ 〙*
-➽❌ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐥𝐥𝐚𝐦𝐚𝐫 𝐚𝐥 𝐁𝐨𝐭
-➽❌ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐒𝐩𝐚𝐦 𝐚𝐥 𝐁𝐨𝐭
-➽❌ 𝐍𝐨 𝐚𝐠𝐫𝐞𝐠𝐚𝐫 𝐚𝐥 𝐁𝐨𝐭
-➽❌ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚 𝐥𝐨𝐬 𝐭𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐲 𝐜𝐨𝐧𝐝𝐢𝐜𝐢𝐨𝐧𝐞𝐬
-*╰═┅ৡৢ͜͡✦═╡ 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ╞═┅ৡৢ͜͡✦═╯*`, fkontak, m)}
+conn.reply(m.chat, `╭┅〘 🐧 𝗥𝗲𝗴𝗹𝗮𝘀 𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧 〙
+| 𝗘𝘀𝘁𝗮 𝗧𝗼𝘁𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝗱𝗼 𝗟𝗹𝗮𝗺𝗮𝗱𝗮𝘀
+| 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝗱𝗼 𝗘𝘀𝗰𝗿𝗶𝗯𝗶𝗿 𝗔𝗹 𝗕𝗼𝘁
+| 𝗡𝗼 𝗔𝗴𝗿𝗲𝗴𝗮𝗿 𝗔𝗹 𝗕𝗼𝘁
+╰┅〘 🐧 𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧 〙`, fkontak, m)}
 
 if (/^Quiero un bot|como obtengo un bot?|Quiero un bot?|quiero un bot|solicitud|solicitó bot|solicito bot|Necesito un bot|necesito un bot$/i.test(m.text) ) {
-conn.reply(m.chat,  `\`⚡¿Quieres un bot para tu grupo?\`
+conn.reply(m.chat,  `𝗘𝘀𝘁á𝘀 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝗮𝗱𝗼 𝗘𝗻 𝗢𝗯𝘁𝗲𝗻𝗲𝗿 𝗨𝗻 𝗕𝗼𝘁 🦍 ?
 
-*🐈 Tiene varias opciones. Puedes instalarlo tú mismo siguiendo los pasos de instalación:*
-* #instalarbot
+𝗣𝗶𝗻𝗴𝘂𝗶 𝗕𝗼𝘁 𝗧𝗶𝗲𝗻𝗲 𝗩𝗮𝗿𝗶𝗮𝘀 𝗢𝗽𝗰𝗶𝗼𝗻𝗲𝘀:
 
-*🧡 Puede hacerte un sub bot mandando el siguiente comando:*
-* #serbot (escanea el QR) 
-* #jadibot --code (Código de 8 dígitos)
+• 𝗜𝗻𝘀𝘁𝗮𝗹𝗮𝗿 𝗘𝗹 𝗕𝗼𝘁 𝗩𝗶𝗮 𝗣á𝗴𝗶𝗻𝗮 𝟮𝟰/𝟳
+• 𝗜𝗻𝘀𝘁𝗮𝗹𝗮𝗿 𝗘𝗹 𝗕𝗼𝘁 𝗩𝗶𝗮 𝗔𝗽𝗸
+• 𝗕𝗼𝘁 𝗣𝗮𝗿𝗮 𝗧𝘂 𝗚𝗿𝘂𝗽𝗼 𝟮𝟰/𝟳
 
-*💖 Puedes solicitarlo haciendo una donación voluntaria a través de PayPal o Mercado Pago arg.*
+> El Bot Estará Activo 24/7 🚀
 
-> 🚀 El bot estará activo 24/7 para tu grupo.
+𝗣𝘂𝗲𝗱𝗲𝘀 𝗦𝗼𝗹𝗶𝗰𝗶𝘁𝗮𝗿𝗹𝗼 𝗛𝗮𝗰𝗶𝗲𝗻𝗱𝗼 𝗨𝗻 𝗣𝗮𝗴𝗼 𝗔 𝗧𝗿𝗮𝘃é𝘀 𝗗𝗲 𝗣𝗮𝘆𝗽𝗮𝗹 𝗢 𝗬𝗮𝗽𝗲 🐧
 
-\`⚡ ¿Por dónde puedo donar?\`
-> A través de nuestro PayPal o Mercado Pago.
+💸 𝗣𝗮𝘆𝗽𝗮𝗹 :
+https://www.paypal.com/paypalme/PinguiService
 
-*❇️PayPal:*
-• https://www.paypal.com/paypalme/OficialGD
+💵 𝗬𝗮𝗽𝗲 :
+• 𝗡𝘂𝗺𝗲𝗿𝗼 : +51 926 933 818
+• 𝗡𝗼𝗺𝗯𝗿𝗲 : 𝗖𝗿𝗶𝘀𝘁𝗵𝗼𝗳𝗲𝗿 𝗥𝗼𝗷𝗮𝘀
 
-*❇️Mercado pago:*
+> Una Vez Hayas Realizado El Pago Escribele A Mi Creador Adjuntando La Captura Del Pago +51 926 933 818
 
-*• Alias :* OficialGB
-*• CVU :* 0000003100059201491917
-
-\`⏩ Siguiente paso ⏩\`
-
-> Una vez realizado el pago, puedes enviar un comprobante de envío del dinero (captura de pantalla) para que pueda agregar el bot a tu grupo:
-
-• https://chat.whatsapp.com/FDRfhecUGrCEQswkg8FUYz
-• ${ig}
-• https://www.facebook.com/elrebelde21
-
-\`⚡ ¿El bot estará activo 24/7?\`
-_*Sí, nuestro bot está alojado en un servidor de pago para mantenerlo activo 24/7 (por eso también solicitamos donaciones para mantenerlo en funcionamiento) 💞*_
-
-> *𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙨𝙪𝙨 𝙥𝙧𝙚𝙛𝙚𝙧𝙚𝙣𝙘𝙞𝙖𝙨 𝙚𝙣 ${gt} 🐈💞*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `Hola ${name} 👋`, body: wm, previewType: 0, thumbnail: gataImg.getRandom(), sourceUrl: accountsgb.getRandom()}}})}
+> *GRACIAS POR PREFERIR PINGUI DIOS SEX 🐧*`, fkontak, {contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `Hola ${name} 👋`, body: wm, previewType: 0, thumbnail: gataImg.getRandom(), sourceUrl: accountsgb.getRandom()}}})}
  
 if (/^¿Qué es un Bot?|¿Qué es Bot?|Qué es Bot|qué es Bot|QUÉ ES UN BOT|¿QUÉ ES UN BOT?|¿qué es un Bot?|qué es un Bot|que es un Bot|Qué es un Bot?|Que es un Bot? $/i.test(m.text) ) {
 conn.reply(m.chat, `\`✨ ¿𝐐𝐮𝐞́ 𝐞𝐬 𝐮𝐧 𝐁𝐨𝐭 𝐝𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩? ✨\`
@@ -69,7 +54,7 @@ conn.reply(m.chat, `\`✨ ¿𝐐𝐮𝐞́ 𝐞𝐬 𝐮𝐧 𝐁𝐨𝐭 𝐝�
 🍃 *_Para ver el menú de comandos puedes usar:_*
 #menu
 
-🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈`, m)}  
+🐧 𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧`, m)}  
 return !0 
 }
 export default handler
