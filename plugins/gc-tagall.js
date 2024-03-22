@@ -10,7 +10,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `${pesan}`;
-  let teks = `┣👥 𝗨𝘀𝘂𝗮𝗿𝗶𝗼𝘀 𝗗𝗲𝗹 𝗚𝗿𝘂𝗽𝗼 : ${participants.length}\n❏\n┣💉 Activate Rata, Aquí No Estamos Para Mantener\n❏\n┆ 𝗧𝗲𝗻𝗲𝗺𝗼𝘀 𝗔𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱𝗲𝘀 𝗚𝗮𝗮 ღ\n┆\n`;
+  let teks = `┣👥 𝗨𝘀𝘂𝗮𝗿𝗶𝗼𝘀 𝗗𝗲𝗹 𝗚𝗿𝘂𝗽𝗼 : ${participants.length}\n❏\n┣💉 Activate Rata, Aquí No Estamos Para Mantener\n❏\n`;
   for (const mem of participants) {
     teks += `┣ ღ @${mem.id.split('@')[0]}\n`;
   }
