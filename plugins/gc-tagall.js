@@ -13,7 +13,7 @@
   for (const mem of participants) {
     teks += `│ღ @${mem.id.split('@')[0]}\n`;
   }
-  teks += `╰──────────────────ღ`;
+  teks += `╰──────────────────ღ\n\n`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
