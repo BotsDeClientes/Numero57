@@ -84,7 +84,7 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
-  ╭━〔 *🐧 Pingui Pornero 🐧* 〕
+  ╭━〔 *❄️ Antartida Pornero ❄️* 〕
  *┃➤* _${usedPrefix}Manuelaqm_
  *┃➤* _${usedPrefix}OnlyVip2_
  *┃➤* _${usedPrefix}Booty2_
@@ -113,7 +113,7 @@ let menu =`
  *┃➤* _${usedPrefix}RamdonXxx_
  *┃➤* _${usedPrefix}Pechos_
   ╰━━━━━━━━━━━━━`.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝐁𝐨𝐭 𝐀𝐧𝐭𝐚𝐫𝐭𝐢𝐝𝐚 ❄️', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {

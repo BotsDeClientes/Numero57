@@ -84,35 +84,35 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *🐧 Pingui Creador 🐧* 〕
-*┃➤ Creador : Pingui 🐧*
+ ╭━〔 *❄️ Antartida Creador ❄️* 〕
+*┃➤ Creador : Antartida ❄️*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
-*┃➤ Yape : +51 936 994 155 💸*
+*┃➤ Yape 1 : +51 936 994 155 💸*
+*┃➤ Yape 2 : +51 926 933 818 💸*
  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Adquirir 🐧* 〕
- *┃➤* _${usedPrefix}Vendedores / Vendedores ofc_
+  ╭━〔 *❄️ Antartida Adquirir ❄️* 〕
  *┃➤* _${usedPrefix}Preciobot / Comprar El Bot_
- *┃➤* _${usedPrefix}Proveedor / Deseas Vender Pingui ?_
- *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Pingui_
+ *┃➤* _${usedPrefix}Proveedor / Deseas Vender Antartida ?_
+ *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Antartida_
  *┃➤* _${usedPrefix}Publicidadbot / Publicidad Del Bot_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Info 🐧* 〕
+  ╭━〔 *❄️ Antartida Info ❄️* 〕
  *┃➤* _${usedPrefix}cafirexos_
  *┃➤* _${usedPrefix}gruposgb_
  *┃➤* _${usedPrefix}donar_
  *┃➤* _${usedPrefix}listagrupos_
  *┃➤* _${usedPrefix}estado_
- *┃➤* _${usedPrefix}infopingui_
+ *┃➤* _${usedPrefix}infoAntartida_
  *┃➤* _${usedPrefix}instalarbot_
  *┃➤* _${usedPrefix}creador_
  *┃➤* _${usedPrefix}velocidad_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Free Fire 🐧* 〕
+  ╭━〔 *❄️ Antartida Free Fire ❄️* 〕
  *┃➤* _${usedPrefix}Lista3 / Lista De Actividades_
  *┃➤* _${usedPrefix}Masc18 / Lista Masc 18_
  *┃➤* _${usedPrefix}Masc20 / Lista Masc 20_
@@ -140,39 +140,39 @@ let menu =`
  *┃➤* _${usedPrefix}InfinitoFem / Reglas Infinito Femenina Sur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Spamer 🐧* 〕
+  ╭━〔 *❄️ Antartida Spamer ❄️* 〕
  *┃➤* _${usedPrefix}SpamApk_
  *┃➤* _${usedPrefix}Comunidades_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Reclutamientos 🐧* 〕
+  ╭━〔 *❄️ Antartida Reclutamientos ❄️* 〕
  *┃➤* _${usedPrefix}TeamFem_
  *┃➤* _${usedPrefix}TeamMasc_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🐧 Pingui Edits 🐧* 〕
+   ╭━〔 *❄️ Antartida Edits ❄️* 〕
  *┃➤* _${usedPrefix}ApkEdit_
  *┃➤* _${usedPrefix}DriveEdits_
  *┃➤* _${usedPrefix}Dzn / Servicio De Dzn - Comprar Edits_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🐧 Pingui Tarjetas 🐧* 〕
+   ╭━〔 *❄️ Antartida Tarjetas ❄️* 〕
  *┃➤* _${usedPrefix}Cc2_
  *┃➤* _${usedPrefix}Tarjetas_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🐧 Pingui Pornero 🐧* 〕
+   ╭━〔 *❄️ Antartida Pornero ❄️* 〕
  *┃➤* _${usedPrefix}PinguiPajero_
  *┃➤* _${usedPrefix}PinguiPornero_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Premium 🐧* 〕
+  ╭━〔 *❄️ Antartida Premium ❄️* 〕
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Juegos 🐧* 〕
+  ╭━〔 *❄️ Antartida Juegos ❄️* 〕
  *┃➤* _${usedPrefix}mates | matemáticas | math_
  *┃➤* _${usedPrefix}lanzar *cara* | *cruz*_
  *┃➤* _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -218,12 +218,12 @@ let menu =`
  *┃➤* _${usedPrefix}suerte_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Ia 🐧* 〕
+  ╭━〔 *❄️ Antartida Ia ❄️* 〕
  *┃➤* _${usedPrefix}geminiimg *reaccione a una foto*_
  *┃➤* _${usedPrefix}gemini *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Ajustes Grupos 🐧* 〕
+  ╭━〔 *❄️ Antartida Ajustes Grupos ❄️* 〕
  *┃➤* _${usedPrefix}enable *o* disable *bienvenida | welcome*_
  *┃➤* _${usedPrefix}enable *o* disable *avisos | detect*_
  *┃➤* _${usedPrefix}enable *o* disable *autonivel | autolevelup*_
@@ -252,13 +252,13 @@ let menu =`
  *┃➤* _${usedPrefix}enable *o* disable *soloprivados | pconly*_
  *┃➤* _${usedPrefix}enable *o* disable *sologrupos | gconly*_  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Ajustes 🐧* 〕
+  ╭━〔 *❄️ Antartida Ajustes ❄️* 〕
  *┃➤* _${usedPrefix}configuracion_
  *┃➤* _${usedPrefix}settings_
  *┃➤* _${usedPrefix}vergrupo_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Descargas 🐧* 〕
+  ╭━〔 *❄️ Antartida Descargas ❄️* 〕
  *┃➤* _${usedPrefix}imagen | image *texto*_
  *┃➤* _${usedPrefix}pinterest | dlpinterest *texto*_
  *┃➤* _${usedPrefix}wallpaper|wp *texto*_
@@ -288,7 +288,7 @@ let menu =`
  *┃➤* _${usedPrefix}historia_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Anonimo 🐧* 〕
+  ╭━〔 *❄️ Antartida Anonimo ❄️* 〕
  *┃➤* _${usedPrefix}chatanonimo | anonimochat_
  *┃➤* _${usedPrefix}anonimoch_
  *┃➤* _${usedPrefix}start_
@@ -296,7 +296,7 @@ let menu =`
  *┃➤* _${usedPrefix}leave_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Cmd Grupos 🐧* 〕
+  ╭━〔 *❄️ Antartida Cmd Grupos ❄️* 〕
  *┃➤* _${usedPrefix}add *numero*_
  *┃➤* _${usedPrefix}sacar | ban | kick  *@tag*_
  *┃➤* _${usedPrefix}grupo *abrir o cerrar*_
@@ -331,7 +331,7 @@ let menu =`
  *┃➤* _${usedPrefix}disable_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Parejas 🐧* 〕
+  ╭━〔 *❄️ Antartida Parejas ❄️* 〕
  *┃➤* _${usedPrefix}listaparejas | listship_
  *┃➤* _${usedPrefix}mipareja | mylove_
  *┃➤* _${usedPrefix}pareja | couple *@tag*_
@@ -340,7 +340,7 @@ let menu =`
  *┃➤* _${usedPrefix}terminar | finish *@tag*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Votaciones 🐧* 〕
+  ╭━〔 *❄️ Antartida Votaciones ❄️* 〕
  *┃➤* _${usedPrefix}crearvoto | startvoto *texto*_
  *┃➤* _${usedPrefix}sivotar | upvote_
  *┃➤* _${usedPrefix}novotar | devote_
@@ -348,7 +348,7 @@ let menu =`
  *┃➤* _${usedPrefix}delvoto | deletevoto_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Convertidores 🐧* 〕
+  ╭━〔 *❄️ Antartida Convertidores ❄️* 〕
  *┃➤* _${usedPrefix}toimg | img | jpg *sticker*_
  *┃➤* _${usedPrefix}toanime | jadianime *foto*_
  *┃➤* _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -359,12 +359,12 @@ let menu =`
  *┃➤* _${usedPrefix}tts es *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Logos 🐧* 〕
+  ╭━〔 *❄️ Antartida Logos ❄️* 〕
  *┃➤* _${usedPrefix}logos *efecto texto*_
  *┃➤* _${usedPrefix}menulogos2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Efectos 🐧* 〕
+  ╭━〔 *❄️ Antartida Efectos ❄️* 〕
  *┃➤* _${usedPrefix}simpcard *@tag*_
  *┃➤* _${usedPrefix}hornycard *@tag*_
  *┃➤* _${usedPrefix}lolice *@tag*_
@@ -374,7 +374,7 @@ let menu =`
  *┃➤* _${usedPrefix}blur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Fantasy 🐧* 〕
+  ╭━〔 *❄️ Antartida Fantasy ❄️* 〕
  *┃➤* _${usedPrefix}fantasy | fy_
  *┃➤* _${usedPrefix}fyguia | fyguide_
  *┃➤* _${usedPrefix}fantasyinfo | fyinfo_
@@ -385,7 +385,7 @@ let menu =`
  *┃➤* _${usedPrefix}fyentregar | fytransfer_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Anime 🐧* 〕
+  ╭━〔 *❄️ Antartida Anime ❄️* 〕
  *┃➤* _${usedPrefix}chica_
  *┃➤* _${usedPrefix}chico_
  *┃➤* _${usedPrefix}cristianoronaldo_
@@ -438,7 +438,7 @@ let menu =`
  *┃➤* _${usedPrefix}cosplay_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Efectos A. 🐧* 〕
+  ╭━〔 *❄️ Antartida Efectos A. ❄️* 〕
  *┃➤* _${usedPrefix}bass_
  *┃➤* _${usedPrefix}blown_
  *┃➤* _${usedPrefix}deep_
@@ -453,7 +453,7 @@ let menu =`
  *┃➤* _${usedPrefix}tupai_
   ╰━━━━━━━━━━━━━
   	
-  ╭━〔 *🐧 Pingui Busqueda 🐧* 〕
+  ╭━〔 *❄️ Antartida Busqueda ❄️* 〕
  *┃➤* _${usedPrefix}animeinfo *texto*_
  *┃➤* _${usedPrefix}anuel_
  *┃➤* _${usedPrefix}conejo_
@@ -468,7 +468,7 @@ let menu =`
  *┃➤* _${usedPrefix}wiki | wikipedia *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Herramientas 🐧* 〕
+  ╭━〔 *❄️ Antartida Herramientas ❄️* 〕
  *┃➤* _${usedPrefix}afk *motivo*_
  *┃➤* _${usedPrefix}acortar *url*_
  *┃➤* _${usedPrefix}calc *operacion math*_
@@ -484,7 +484,7 @@ let menu =`
  *┃➤* _${usedPrefix}horario_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Rpg 🐧* 〕
+  ╭━〔 *❄️ Antartida Rpg ❄️* 〕
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
  *┃➤* _${usedPrefix}listapremium | listprem_
@@ -510,7 +510,7 @@ let menu =`
  *┃➤* _${usedPrefix}myns_
  *┃➤* _${usedPrefix}unreg *numero de serie*_
  *┃➤* _${usedPrefix}minardiamantes | minargemas_
- *┃➤* _${usedPrefix}minarpinguicoins | minarcoins_
+ *┃➤* _${usedPrefix}minarAntartidacoins | minarcoins_
  *┃➤* _${usedPrefix}minarexperiencia | minarexp_
  *┃➤* _${usedPrefix}minar *:* minar2 *:* minar3_
  *┃➤* _${usedPrefix}rob | robar 
@@ -526,11 +526,11 @@ let menu =`
  *┃➤* _${usedPrefix}fylista_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🐧 Pingui Tops 🐧* 〕
+  ╭━〔 *❄️ Antartida Tops ❄️* 〕
  *┃➤* _${usedPrefix}top_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Stickers 🐧* 〕
+  ╭━〔 *❄️ Antartida Stickers ❄️* 〕
  *┃➤* _${usedPrefix}sticker | s *imagen o video*_
  *┃➤* _${usedPrefix}sticker | s *url de tipo jpg*_
  *┃➤* _${usedPrefix}emojimix *😺+😆*_
@@ -550,12 +550,12 @@ let menu =`
  *┃➤* _${usedPrefix}cs *:* cs2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Stickers 2 🐧* 〕
+  ╭━〔 *❄️ Antartida Stickers 2 ❄️* 〕
  *┃➤* _${usedPrefix}wm *packname|author*_
  *┃➤* _${usedPrefix}wm *texto1|texto2*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Stickers 3🐧* 〕
+  ╭━〔 *❄️ Antartida Stickers 3❄️* 〕
  *┃➤* _${usedPrefix}palmaditas | pat *@tag*_
  *┃➤* _${usedPrefix}bofetada | slap *@tag*_
  *┃➤* _${usedPrefix}golpear *@tag*_
@@ -563,12 +563,12 @@ let menu =`
  *┃➤* _${usedPrefix}alimentar | food *@tag*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🐧 Pingui Owners 🐧* 〕
+  ╭━〔 *❄️ Antartida Owners ❄️* 〕
  *┃➤* _${usedPrefix}join *enlace*_
  *┃➤* _${usedPrefix}unete *enlace*_
  *┃➤* _${usedPrefix}dardiamantes *cantidad*_
  *┃➤* _${usedPrefix}darxp *cantidad*_
- *┃➤* _${usedPrefix}darpinguicoins *cantidad*_
+ *┃➤* _${usedPrefix}darAntartidacoins *cantidad*_
  *┃➤* _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -582,7 +582,7 @@ let menu =`
  *┃➤* _${usedPrefix}comunicargrupos *texto*_
  *┃➤* _${usedPrefix}borrartmp | cleartmp_
  *┃➤* _${usedPrefix}delexp *@tag*_
- *┃➤* _${usedPrefix}delpinguicoins *@tag*_
+ *┃➤* _${usedPrefix}delAntartidacoins *@tag*_
  *┃➤* _${usedPrefix}deldiamantes *@tag*_
  *┃➤* _${usedPrefix}reiniciar | restart_
  *┃➤* _${usedPrefix}actualizar | update_
@@ -591,10 +591,10 @@ let menu =`
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}añadirdiamantes *@tag cantidad*_
  *┃➤* _${usedPrefix}añadirxp *@tag cantidad*_
- *┃➤* _${usedPrefix}añadirpinguicoins *@tag cantidad*_
+ *┃➤* _${usedPrefix}añadirAntartidacoins *@tag cantidad*_
   ╰━━━━━━━━━━━━━
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝐁𝐨𝐭 𝐀𝐧𝐭𝐚𝐫𝐭𝐢𝐝𝐚 ❄️', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
