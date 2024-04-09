@@ -1,9 +1,9 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let cafirexos = `
-_Optimice la implementación de *PinguiBot-Md* mediante la integración en un servicio de alojamiento de alto rendimiento._
+_Optimice la implementación de *Antartida* mediante la integración en un servicio de alojamiento de alto rendimiento._
 
-*Compatible con PinguiBot-Md*
+*Compatible con Antartida*
 Aprovecha la compatibilidad y comienza usar Long Time Bot en servidores de alto rendimiento. El Staff de PinguiBot-Md y Cafirexos hacen posible que puedas ejecutar las funciones que tanto te gusta usar sintiendo una experiencia fluida y de calidad.
 
 🔵 \`\`\`Información del Host\`\`\`
@@ -17,11 +17,8 @@ https://dash.cafirexos.com
 ⚙️ *Panel*
 https://panel.cafirexos.com
 
-📢 *Canal de WhatsApp*
-https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q
-
 💥 *Grupo de WhatsApp*
-https://chat.whatsapp.com/IKeeFD8PDaS7rkyG7a12g1
+https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4
 
 📧 *Correo*
 contacto@cafirexos.com
