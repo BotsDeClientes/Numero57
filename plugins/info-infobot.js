@@ -1,7 +1,7 @@
 const handler = async (m, {conn}) => {
   m.reply(global.infopingui);
 };
-handler.command = /^(infopingui|infopingui|infopingui)$/i;
+handler.command = /^(info|infoantartida|infopingui)$/i;
 export default handler;
 
 global.infopingui = `
