@@ -85,12 +85,12 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu =`
  ╭━〔 *❄️ Antartida Creador ❄️* 〕
-*┃➤ Creador : Antartida ❄️*
+*┃➤ Creador : Cristhofer ❄️*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
 *┃➤ Yape 1 : +51 936 994 155 💸*
-*┃➤ Yape 2 : +51 926 933 818 💸*
+*┃➤ Yape 2 : +51 981 983 121 💸*
  ╰━━━━━━━━━━━━━
 
   ╭━〔 *❄️ Antartida Adquirir ❄️* 〕
