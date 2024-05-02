@@ -131,34 +131,34 @@ global.vs = "1"
 global.vsJB = "1"
 global.gt = "𝐁𝐨𝐭 𝐀𝐧𝐭𝐚𝐫𝐭𝐢𝐝𝐚 ❄️"
 
-global.yt = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.yt2 = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.ig = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.md = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.fb = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.tk = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.ths = "https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4"
-global.paypal = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
+global.yt = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.yt2 = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.ig = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.md = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.fb = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.tk = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.ths = "https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=="
+global.paypal = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=='
 global.asistencia = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
 global.bot = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Cuentas
-global.nn2 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo tg GataBot
-global.nna2 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Help
-global.nn = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 1
-global.nnn = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // MULTI - BOTS
-global.nnnttt6 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4' // A.T.M.M
-global.channel1 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
-global.channel2 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
-global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
+global.nna = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Cuentas
+global.nn2 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Help
+global.nn = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 1
+global.nnn = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 2
+global.nnnt = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 3
+global.nnntt = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ==' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=='
+global.channel2 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=='
+global.channel3 = 'https://www.instagram.com/cristhofer_yallico?igsh=MXRoeXgyNjE1N3RvYQ=='
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
