@@ -89,8 +89,8 @@ let menu =`
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Instagram :*  https://www.instagram.com/jenn_dzzn 🙈
-*┃➤ Yape 1 : +51 936 994 155 💸*
-*┃➤ Yape 2 : +51 981 983 121 💸*
+*┃➤ Yape 1 : +51 991 619 710 💸*
+*┃➤ Yape 2 : +51 955 250 033 💸*
  ╰━━━━━━━━━━━━━
 
   ╭━〔 *🇾🇪 Cris X Jenni Adquirir 🇾🇪* 〕
