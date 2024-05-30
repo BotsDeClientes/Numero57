@@ -88,7 +88,7 @@ let menu =`
 *┃➤ Creadores : Cris X Jenni 🇾🇪*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
-*┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
+*┃➤ Instagram :*  https://www.instagram.com/jenn_dzzn 🙈
 *┃➤ Yape 1 : +51 936 994 155 💸*
 *┃➤ Yape 2 : +51 981 983 121 💸*
  ╰━━━━━━━━━━━━━
