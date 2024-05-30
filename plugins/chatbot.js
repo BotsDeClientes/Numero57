@@ -16,11 +16,11 @@ let teks = `${pickRandom([`no puedo esta contra las política del grupo.😸`, `
 conn.reply(m.chat, teks, m, { mentions: { mentionedJid: [m.sender] }})}*/
 
 if (/^reglas|normas|Reglas$/i.test(m.text) ) { //sin prefijo 
-conn.reply(m.chat, `╭┅〘 🐧 𝗥𝗲𝗴𝗹𝗮𝘀 𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 🐧 〙
+conn.reply(m.chat, `╭┅〘 𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻𝗶 🇾🇪 〙
  | 𝗘𝘀𝘁𝗮 𝗧𝗼𝘁𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝗱𝗼 𝗟𝗹𝗮𝗺𝗮𝗱𝗮𝘀
  | 𝗣𝗿𝗼𝗵𝗶𝗯𝗶𝗱𝗼 𝗘𝘀𝗰𝗿𝗶𝗯𝗶𝗿 𝗔𝗹 𝗕𝗼𝘁
  | 𝗡𝗼 𝗔𝗴𝗿𝗲𝗴𝗮𝗿 𝗔𝗹 𝗕𝗼𝘁
-╰┅〘 🐧 𝗣𝗶𝗻𝗴𝘂𝗶 𝗗𝗶𝗼𝘀 𝗦𝗲𝘅 🐧 〙`, fkontak, m)}
+╰┅〘 𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻𝗶 🇾🇪 〙`, fkontak, m)}
 
 if (/^Quiero un bot|como obtengo un bot?|Quiero un bot?|quiero un bot|solicitud|solicitó bot|solicito bot|Necesito un bot|necesito un bot$/i.test(m.text) ) {
 conn.reply(m.chat,  `𝗘𝘀𝘁á𝘀 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝗮𝗱𝗼 𝗘𝗻 𝗢𝗯𝘁𝗲𝗻𝗲𝗿 𝗨𝗻 𝗕𝗼𝘁 🦍 ?
