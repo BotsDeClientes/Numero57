@@ -86,7 +86,7 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu =`
  ╭━〔 *🇾🇪 Cris X Jenn Creador 🇾🇪* 〕
 *┃➤ Creadores : Cris X Jenn 🇾🇪*
-*┃➤ Instagram : ${md} 😻*
+*┃➤ Instagram : https://www.instagram.com/cristhofer_yallico 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Instagram : https://www.instagram.com/jenn_dzzn 🙈*
 *┃➤ Yape 1 : +51 991 619 710 💸*
