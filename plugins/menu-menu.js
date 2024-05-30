@@ -84,8 +84,8 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *❄️ Antartida Creador ❄️* 〕
-*┃➤ Creador : Cristhofer ❄️*
+ ╭━〔 *🇾🇪 Cris X Jenni Creador 🇾🇪* 〕
+*┃➤ Creadores : Cris X Jenni 🇾🇪*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
@@ -93,26 +93,26 @@ let menu =`
 *┃➤ Yape 2 : +51 981 983 121 💸*
  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Adquirir ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Adquirir 🇾🇪* 〕
  *┃➤* _${usedPrefix}Preciobot / Comprar El Bot_
- *┃➤* _${usedPrefix}Proveedor / Deseas Vender Antartida ?_
- *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Antartida_
+ *┃➤* _${usedPrefix}Proveedor / Deseas Vender Cris X Jenni ?_
+ *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Cris X Jenni_
  *┃➤* _${usedPrefix}Publicidadbot / Publicidad Del Bot_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Info ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Info 🇾🇪* 〕
  *┃➤* _${usedPrefix}cafirexos_
  *┃➤* _${usedPrefix}gruposgb_
  *┃➤* _${usedPrefix}donar_
  *┃➤* _${usedPrefix}listagrupos_
  *┃➤* _${usedPrefix}estado_
- *┃➤* _${usedPrefix}infoAntartida_
+ *┃➤* _${usedPrefix}infoantartida_
  *┃➤* _${usedPrefix}instalarbot_
  *┃➤* _${usedPrefix}creador_
  *┃➤* _${usedPrefix}velocidad_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Free Fire ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Free Fire 🇾🇪* 〕
  *┃➤* _${usedPrefix}Lista3 / Lista De Actividades_
  *┃➤* _${usedPrefix}Masc18 / Lista Masc 18_
  *┃➤* _${usedPrefix}Masc20 / Lista Masc 20_
@@ -140,39 +140,39 @@ let menu =`
  *┃➤* _${usedPrefix}InfinitoFem / Reglas Infinito Femenina Sur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Spamer ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Spamer 🇾🇪* 〕
  *┃➤* _${usedPrefix}SpamApk_
  *┃➤* _${usedPrefix}Comunidades_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Reclutamientos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Reclutamientos 🇾🇪* 〕
  *┃➤* _${usedPrefix}TeamFem_
  *┃➤* _${usedPrefix}TeamMasc_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *❄️ Antartida Edits ❄️* 〕
+   ╭━〔 *🇾🇪 Cris X Jenni Edits 🇾🇪* 〕
  *┃➤* _${usedPrefix}ApkEdit_
  *┃➤* _${usedPrefix}DriveEdits_
  *┃➤* _${usedPrefix}Dzn / Servicio De Dzn - Comprar Edits_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *❄️ Antartida Tarjetas ❄️* 〕
+   ╭━〔 *🇾🇪 Cris X Jenni Tarjetas 🇾🇪* 〕
  *┃➤* _${usedPrefix}Cc2_
  *┃➤* _${usedPrefix}Tarjetas_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *❄️ Antartida Pornero ❄️* 〕
+   ╭━〔 *🇾🇪 Cris X Jenni Pornero 🇾🇪* 〕
  *┃➤* _${usedPrefix}PinguiPajero_
  *┃➤* _${usedPrefix}PinguiPornero_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Premium ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Premium 🇾🇪* 〕
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Juegos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Juegos 🇾🇪* 〕
  *┃➤* _${usedPrefix}mates | matemáticas | math_
  *┃➤* _${usedPrefix}lanzar *cara* | *cruz*_
  *┃➤* _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -218,12 +218,12 @@ let menu =`
  *┃➤* _${usedPrefix}suerte_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Ia ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Ia 🇾🇪* 〕
  *┃➤* _${usedPrefix}geminiimg *reaccione a una foto*_
  *┃➤* _${usedPrefix}gemini *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Ajustes Grupos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Ajustes Grupos 🇾🇪* 〕
  *┃➤* _${usedPrefix}enable *o* disable *bienvenida | welcome*_
  *┃➤* _${usedPrefix}enable *o* disable *avisos | detect*_
  *┃➤* _${usedPrefix}enable *o* disable *autonivel | autolevelup*_
@@ -252,13 +252,13 @@ let menu =`
  *┃➤* _${usedPrefix}enable *o* disable *soloprivados | pconly*_
  *┃➤* _${usedPrefix}enable *o* disable *sologrupos | gconly*_  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Ajustes ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Ajustes 🇾🇪* 〕
  *┃➤* _${usedPrefix}configuracion_
  *┃➤* _${usedPrefix}settings_
  *┃➤* _${usedPrefix}vergrupo_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Descargas ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Descargas 🇾🇪* 〕
  *┃➤* _${usedPrefix}imagen | image *texto*_
  *┃➤* _${usedPrefix}pinterest | dlpinterest *texto*_
  *┃➤* _${usedPrefix}wallpaper|wp *texto*_
@@ -288,7 +288,7 @@ let menu =`
  *┃➤* _${usedPrefix}historia_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Anonimo ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Anonimo 🇾🇪* 〕
  *┃➤* _${usedPrefix}chatanonimo | anonimochat_
  *┃➤* _${usedPrefix}anonimoch_
  *┃➤* _${usedPrefix}start_
@@ -296,7 +296,7 @@ let menu =`
  *┃➤* _${usedPrefix}leave_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Cmd Grupos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Cmd Grupos 🇾🇪* 〕
  *┃➤* _${usedPrefix}add *numero*_
  *┃➤* _${usedPrefix}sacar | ban | kick  *@tag*_
  *┃➤* _${usedPrefix}grupo *abrir o cerrar*_
@@ -331,7 +331,7 @@ let menu =`
  *┃➤* _${usedPrefix}disable_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Parejas ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Parejas 🇾🇪* 〕
  *┃➤* _${usedPrefix}listaparejas | listship_
  *┃➤* _${usedPrefix}mipareja | mylove_
  *┃➤* _${usedPrefix}pareja | couple *@tag*_
@@ -340,7 +340,7 @@ let menu =`
  *┃➤* _${usedPrefix}terminar | finish *@tag*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Votaciones ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Votaciones 🇾🇪* 〕
  *┃➤* _${usedPrefix}crearvoto | startvoto *texto*_
  *┃➤* _${usedPrefix}sivotar | upvote_
  *┃➤* _${usedPrefix}novotar | devote_
@@ -348,7 +348,7 @@ let menu =`
  *┃➤* _${usedPrefix}delvoto | deletevoto_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Convertidores ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Convertidores 🇾🇪* 〕
  *┃➤* _${usedPrefix}toimg | img | jpg *sticker*_
  *┃➤* _${usedPrefix}toanime | jadianime *foto*_
  *┃➤* _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -359,12 +359,12 @@ let menu =`
  *┃➤* _${usedPrefix}tts es *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Logos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Logos 🇾🇪* 〕
  *┃➤* _${usedPrefix}logos *efecto texto*_
  *┃➤* _${usedPrefix}menulogos2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Efectos ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Efectos 🇾🇪* 〕
  *┃➤* _${usedPrefix}simpcard *@tag*_
  *┃➤* _${usedPrefix}hornycard *@tag*_
  *┃➤* _${usedPrefix}lolice *@tag*_
@@ -374,7 +374,7 @@ let menu =`
  *┃➤* _${usedPrefix}blur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Fantasy ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Fantasy 🇾🇪* 〕
  *┃➤* _${usedPrefix}fantasy | fy_
  *┃➤* _${usedPrefix}fyguia | fyguide_
  *┃➤* _${usedPrefix}fantasyinfo | fyinfo_
@@ -385,7 +385,7 @@ let menu =`
  *┃➤* _${usedPrefix}fyentregar | fytransfer_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Anime ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Anime 🇾🇪* 〕
  *┃➤* _${usedPrefix}chica_
  *┃➤* _${usedPrefix}chico_
  *┃➤* _${usedPrefix}cristianoronaldo_
@@ -438,7 +438,7 @@ let menu =`
  *┃➤* _${usedPrefix}cosplay_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Efectos A. ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Efectos A. 🇾🇪* 〕
  *┃➤* _${usedPrefix}bass_
  *┃➤* _${usedPrefix}blown_
  *┃➤* _${usedPrefix}deep_
@@ -453,7 +453,7 @@ let menu =`
  *┃➤* _${usedPrefix}tupai_
   ╰━━━━━━━━━━━━━
   	
-  ╭━〔 *❄️ Antartida Busqueda ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Busqueda 🇾🇪* 〕
  *┃➤* _${usedPrefix}animeinfo *texto*_
  *┃➤* _${usedPrefix}anuel_
  *┃➤* _${usedPrefix}conejo_
@@ -468,7 +468,7 @@ let menu =`
  *┃➤* _${usedPrefix}wiki | wikipedia *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Herramientas ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Herramientas 🇾🇪* 〕
  *┃➤* _${usedPrefix}afk *motivo*_
  *┃➤* _${usedPrefix}acortar *url*_
  *┃➤* _${usedPrefix}calc *operacion math*_
@@ -484,7 +484,7 @@ let menu =`
  *┃➤* _${usedPrefix}horario_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Rpg ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Rpg 🇾🇪* 〕
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
  *┃➤* _${usedPrefix}listapremium | listprem_
@@ -510,7 +510,7 @@ let menu =`
  *┃➤* _${usedPrefix}myns_
  *┃➤* _${usedPrefix}unreg *numero de serie*_
  *┃➤* _${usedPrefix}minardiamantes | minargemas_
- *┃➤* _${usedPrefix}minarAntartidacoins | minarcoins_
+ *┃➤* _${usedPrefix}minarCris X Jennicoins | minarcoins_
  *┃➤* _${usedPrefix}minarexperiencia | minarexp_
  *┃➤* _${usedPrefix}minar *:* minar2 *:* minar3_
  *┃➤* _${usedPrefix}rob | robar 
@@ -526,11 +526,11 @@ let menu =`
  *┃➤* _${usedPrefix}fylista_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *❄️ Antartida Tops ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Tops 🇾🇪* 〕
  *┃➤* _${usedPrefix}top_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Stickers ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Stickers 🇾🇪* 〕
  *┃➤* _${usedPrefix}sticker | s *imagen o video*_
  *┃➤* _${usedPrefix}sticker | s *url de tipo jpg*_
  *┃➤* _${usedPrefix}emojimix *😺+😆*_
@@ -550,12 +550,12 @@ let menu =`
  *┃➤* _${usedPrefix}cs *:* cs2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Stickers 2 ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Stickers 2 🇾🇪* 〕
  *┃➤* _${usedPrefix}wm *packname|author*_
  *┃➤* _${usedPrefix}wm *texto1|texto2*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Stickers 3❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Stickers 3🇾🇪* 〕
  *┃➤* _${usedPrefix}palmaditas | pat *@tag*_
  *┃➤* _${usedPrefix}bofetada | slap *@tag*_
  *┃➤* _${usedPrefix}golpear *@tag*_
@@ -563,12 +563,12 @@ let menu =`
  *┃➤* _${usedPrefix}alimentar | food *@tag*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *❄️ Antartida Owners ❄️* 〕
+  ╭━〔 *🇾🇪 Cris X Jenni Owners 🇾🇪* 〕
  *┃➤* _${usedPrefix}join *enlace*_
  *┃➤* _${usedPrefix}unete *enlace*_
  *┃➤* _${usedPrefix}dardiamantes *cantidad*_
  *┃➤* _${usedPrefix}darxp *cantidad*_
- *┃➤* _${usedPrefix}darAntartidacoins *cantidad*_
+ *┃➤* _${usedPrefix}darcoins *cantidad*_
  *┃➤* _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
  *┃➤* _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -582,7 +582,7 @@ let menu =`
  *┃➤* _${usedPrefix}comunicargrupos *texto*_
  *┃➤* _${usedPrefix}borrartmp | cleartmp_
  *┃➤* _${usedPrefix}delexp *@tag*_
- *┃➤* _${usedPrefix}delAntartidacoins *@tag*_
+ *┃➤* _${usedPrefix}delcoins *@tag*_
  *┃➤* _${usedPrefix}deldiamantes *@tag*_
  *┃➤* _${usedPrefix}reiniciar | restart_
  *┃➤* _${usedPrefix}actualizar | update_
@@ -591,10 +591,10 @@ let menu =`
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}añadirdiamantes *@tag cantidad*_
  *┃➤* _${usedPrefix}añadirxp *@tag cantidad*_
- *┃➤* _${usedPrefix}añadirAntartidacoins *@tag cantidad*_
+ *┃➤* _${usedPrefix}añadircoins *@tag cantidad*_
   ╰━━━━━━━━━━━━━
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝐁𝐨𝐭 𝐀𝐧𝐭𝐚𝐫𝐭𝐢𝐝𝐚 ❄️', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻𝗶 🇾🇪', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
