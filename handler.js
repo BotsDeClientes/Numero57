@@ -1409,7 +1409,7 @@ pp = await this.profilePictureUrl(user, 'image')
 let apii = await this.getFile(pp)                                      
 const botTt2 = groupMetadata.participants.find(u => this.decodeJid(u.id) == this.user.jid) || {} 
 const isBotAdminNn = botTt2?.admin === "admin" || false
-text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻𝗶 🇾🇪') :
+text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪') :
 (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', '@' + user.split('@')[0])
 			    
 if (chat.antifake && isBotAdminNn && action === 'add') {
@@ -1516,7 +1516,7 @@ restrict: lenguajeGB['smsRestrict'](),
 }[type] 
 //if (msg) return m.reply(msg)
 let tg = { quoted: m, userJid: conn.user.jid }
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻𝗶 🇾🇪','https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, channel1, channel2, nna, yt, ig, paypal, fb].getRandom() }}}}, tg)
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪','https://chat.whatsapp.com/IJlmgCJ4ITS3Qlz6EL4NeF'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, channel1, channel2, nna, yt, ig, paypal, fb].getRandom() }}}}, tg)
 if (msg) return conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id })
 }
 
