@@ -1516,7 +1516,7 @@ restrict: lenguajeGB['smsRestrict'](),
 }[type] 
 //if (msg) return m.reply(msg)
 let tg = { quoted: m, userJid: conn.user.jid }
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪','https://chat.whatsapp.com/IJlmgCJ4ITS3Qlz6EL4NeF'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, channel1, channel2, nna, yt, ig, paypal, fb].getRandom() }}}}, tg)
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: msg, contextInfo: { externalAdReply: { title: lenguajeGB.smsAvisoAG().slice(0,-2), body: [wm, '𝗕𝘂𝗿𝗯𝘂𝗷𝗮 𝗕𝗼𝘁 💞'].getRandom(), thumbnail: gataImg.getRandom(), sourceUrl: [md, channel1, channel2, nna, yt, ig, paypal, fb].getRandom() }}}}, tg)
 if (msg) return conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id })
 }
 
